@@ -1,5 +1,5 @@
 # join-plan-card
-<div style="center">
+<div style="align-items: center">
   
 ![image](https://github.com/user-attachments/assets/efdd0558-48e3-4c66-9d6c-a467887b1069)
 
